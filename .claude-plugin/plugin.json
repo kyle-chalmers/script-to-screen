@@ -1,0 +1,13 @@
+{
+  "name": "script-to-screen",
+  "version": "0.9.0",
+  "description": "Talk first, AI second. Capture your story out loud, draft a short video script from your own words, and check the draft for AI habits before you record.",
+  "author": {
+    "name": "Kyle Chalmers",
+    "url": "https://kclabs.ai"
+  },
+  "homepage": "https://github.com/kyle-chalmers/script-to-screen",
+  "repository": "https://github.com/kyle-chalmers/script-to-screen",
+  "license": "MIT",
+  "keywords": ["video", "script", "voice", "small-business", "content", "workshop"]
+}

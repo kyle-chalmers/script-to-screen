@@ -1,0 +1,14 @@
+{
+  "name": "script-to-screen",
+  "owner": {
+    "name": "Kyle Chalmers",
+    "url": "https://kclabs.ai"
+  },
+  "plugins": [
+    {
+      "name": "script-to-screen",
+      "source": "./",
+      "description": "Three small skills that turn your own spoken answers into a short video script that sounds like you: capture your story, draft the script, check it in a fresh conversation."
+    }
+  ]
+}
